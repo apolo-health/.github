@@ -1,4 +1,4 @@
-# 🌐 Apolo Organization
+# 🌐 Apolo
 
 Welcome to Apolo! We focus on developing technological solutions for healthcare management 🏥. Our mission is to provide a modular and scalable platform that optimizes the operations of hospitals, clinics, and healthcare centers, enhancing operational efficiency and the quality of health services.
 
