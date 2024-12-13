@@ -9,9 +9,8 @@ Here you’ll find:
 - Examples of our technical expertise.
 - Projects showcasing our services.
 
-## 🚀 Development Philosophy 
-
-Our focus is on modularity, scalability, and security. All projects follow best practices for protecting medical data and complying with healthcare regulations (e.g., HIPAA).
+## 🚀 Development Philosophy
+Our focus is on **modularity**, **scalability**, and **security**. We follow industry best practices to ensure high-quality solutions, prioritizing data protection and compliance with modern standards for technological reliability.
 
 ---
 
